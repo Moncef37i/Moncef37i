@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
+
 <div align="center">
   <img height="150" src="https://cdni.iconscout.com/illustration/premium/thumb/developpeur-web-full-stack-illustration-svg-download-png-3766897.png"  />
 </div>
@@ -6,9 +12,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/moncef-souilah37i/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
 </div>
 
 ###
@@ -17,15 +22,15 @@
 
 ###
 
-<h3 align="left"> About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">Hi, I'm Moncef<br><br>Web Developer from Algeria  <br>I build modern, responsive, and high-performance web applications.<br><br> Focused on clean code, UI/UX, and scalable solutions  <br> Working with HTML, CSS, JavaScript, and modern frameworks  <br> Always open to collaboration</p>
+<p align="left">👋 Hi, I'm Moncef<br><br>Web Developer from Algeria  <br>I build modern, responsive, and high-performance web applications.<br><br>🚀 Focused on clean code, UI/UX, and scalable solutions  <br>🛠️ Working with HTML, CSS, JavaScript, and modern frameworks  <br>📫 Always open to collaboration</p>
 
 ###
 
-<h3 align="left"> Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -47,17 +52,23 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"  />
 </div>
 
 ###
 
-<p align="left"></p>
+<img src="https://raw.githubusercontent.com/moncef37i/moncef37i/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
