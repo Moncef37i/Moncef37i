@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://cdni.iconscout.com/illustration/premium/thumb/developpeur-web-full-stack-illustration-svg-download-png-3766897.png"  />
 </div>
 
 ###
@@ -53,5 +53,19 @@
 ###
 
 <p align="left"></p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moncef37i/moncef37i/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moncef37i/moncef37i/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moncef37i/moncef37i/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
