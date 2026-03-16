@@ -5,12 +5,6 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://eu-central.storage.cloudconvert.com/tasks/00142130-3d04-4d3c-84c9-27d41f388643/output-onlinegiftools.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20260302%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20260302T210111Z&X-Amz-Expires=86400&X-Amz-Signature=8b3f4bae64b695961c9f1ff3a739d07eb0d06cc5088395a2006d421882926520&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22output-onlinegiftools.png%22&response-content-type=image%2Fpng&x-id=GetObject"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/moncef-souilah37i/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
