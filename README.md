@@ -7,9 +7,7 @@
 </p>
 
 ## 📌 About Me
-- 🌱 Currently learning new technologies and expanding my development skills
-- 🚀 Passionate about building modern and scalable web applications
-- 💡 Always improving in UI/UX and performance optimization
+- I’m a passionate web developer from Algeria, driven by curiosity and a constant desire to learn. I focus on building modern, scalable, and user-friendly applications that combine clean code with thoughtful design. Fueled by coffee and late-night problem solving, I’m always exploring new technologies, improving my skills, and turning ideas into real digital experiences. For me, development is not just about writing code - it’s about creating solutions that make an impact.
 
 
 ## 🧠 My Focus Areas
@@ -60,7 +58,9 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/moncef-souilah/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/673940984" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:souilahmoncef99@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://moncef37i.github.io/portfolio/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
 
