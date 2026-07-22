@@ -7,7 +7,7 @@
 </p>
 
 ## 📌 About Me
-- I’m a passionate web developer from Algeria, driven by curiosity and a constant desire to learn. I focus on building modern, scalable, and user-friendly applications that combine clean code with thoughtful design. Fueled by coffee and late-night problem solving, I’m always exploring new technologies, improving my skills, and turning ideas into real digital experiences. For me, development is not just about writing code - it’s about creating solutions that make an impact.
+- I’m a passionate Full-Stack Developer from Algeria, driven by curiosity and a constant desire to learn. I focus on building modern, scalable, and user-friendly applications that combine clean code with thoughtful design. Fueled by coffee and late-night problem solving, I’m always exploring new technologies, improving my skills, and turning ideas into real digital experiences. For me, development is not just about writing code - it’s about creating solutions that make an impact.
 
 
 ## 🧠 My Focus Areas
