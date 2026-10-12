@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Moncef%20Souilah&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Moncef37i&label=Profile+views&color=00FFFF&style=flat-square"
-    alt="Profile views"
-  />
-</p>
-
 ## 📌 About Me
 - I’m a passionate full stack developer from Algeria, driven by curiosity and a constant desire to learn. I focus on building modern, scalable, and user-friendly applications that combine clean code with thoughtful design. Fueled by coffee and late-night problem solving, I’m always exploring new technologies, improving my skills, and turning ideas into real digital experiences. For me, development is not just about writing code - it’s about creating solutions that make an impact.
 
