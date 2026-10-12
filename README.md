@@ -21,9 +21,7 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Moncef37i&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Moncef Souilah's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Moncef37i&theme=dark&radius=10" alt="Moncef37i's Activity Graph" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
